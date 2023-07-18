@@ -10,4 +10,6 @@ and use /mostplayed to get most played song
 HOW TO SETUP
 
 - clone repo ini
-- run command npm install dari folder handson
+- run command npm install dari folder homework-spotify-server
+
+
